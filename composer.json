@@ -1,0 +1,5 @@
+{
+    "require": {
+        "texlab/mydb": "^0.0.4"
+    }
+}
