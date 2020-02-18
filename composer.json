@@ -1,5 +1,6 @@
 {
     "require": {
-        "texlab/mydb": "^0.0.4"
+        "texlab/mydb": "^0.0.4",
+        "monolog/monolog": "^2.0.2"
     }
 }
